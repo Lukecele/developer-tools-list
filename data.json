@@ -2356,7 +2356,7 @@
     "groupTitle": "Aggregator",
     "name": "Arb-Inc",
     "logo": "https://arbitrage-inc.exchange/logo.jpg",
-    "desc": "Open-source DEX aggregator with routed swaps, cross-chain bridging through Mayan Finance, and limit orders.",
+    "desc": "Open-source, non-custodial DEX aggregator with routed swaps, on-chain limit orders, Mayan Finance cross-chain bridging, and deterministic real-yield fee distribution.",
     "website": "https://arbitrage-inc.exchange",
     "annotations": "email: luca.celebrano1@gmail.com, company: Arbitrage Inception, twitter: @Arbitrageincept, telegram: https://t.me/ArbitrageInception, github: https://github.com/arbincept/Arb-Inc-All-in-Dex",
     "chains": "bsc",
