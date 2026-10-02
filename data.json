@@ -2356,9 +2356,9 @@
     "groupTitle": "Aggregator",
     "name": "Arb-Inc",
     "logo": "https://arbitrage-inc.exchange/logo.jpg",
-    "desc": "Open-source decentralized exchange aggregator and cross-chain bridge suite on BNB Smart Chain. Features deterministic real-yield distribution engines, non-custodial limit order routing, and Mayan Finance cross-chain integration.",
+    "desc": "Open-source DEX aggregator with routed swaps, cross-chain bridging through Mayan Finance, and limit orders.",
     "website": "https://arbitrage-inc.exchange",
-    "annotations": "email: luca.celebrano1@gmail.com, company: Arbitrage Inception, twitter: @Arbitrageincept, telegram: https://t.me/ArbitrageInception, github: https://github.com/Lukecele/Arb-Inc-All-in-Dex",
+    "annotations": "email: luca.celebrano1@gmail.com, company: Arbitrage Inception, twitter: @Arbitrageincept, telegram: https://t.me/ArbitrageInception, github: https://github.com/arbincept/Arb-Inc-All-in-Dex",
     "chains": "bsc",
     "tags": "Defi"
   }
